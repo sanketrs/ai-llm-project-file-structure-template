@@ -1,0 +1,4 @@
+# Requirements File 
+# Author: Your Name 
+# Date: 29-12-2024 
+# Description: Contains a list of Python libraries and their versions required to run the project. 
